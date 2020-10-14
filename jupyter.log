@@ -1,0 +1,24 @@
+[I 22:21:46.591 NotebookApp] Serving notebooks from local directory: /home/wangzhuoranivy
+[I 22:21:46.591 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 22:21:46.591 NotebookApp] https://ip-172-31-14-157:8888/
+[I 22:21:46.591 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 22:21:52.325 NotebookApp] SSL Error on 10 ('142.184.124.53', 57804): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[W 22:21:52.327 NotebookApp] SSL Error on 11 ('142.184.124.53', 57805): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[I 22:21:52.345 NotebookApp] 302 GET / (142.184.124.53) 0.51ms
+[I 22:21:52.356 NotebookApp] 302 GET /tree? (142.184.124.53) 0.60ms
+[W 22:21:52.487 NotebookApp] SSL Error on 11 ('142.184.124.53', 57807): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[I 22:21:58.399 NotebookApp] 302 POST /login?next=%2Ftree%3F (142.184.124.53) 109.62ms
+[W 22:21:58.406 NotebookApp] SSL Error on 11 ('142.184.124.53', 57808): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[W 22:21:58.523 NotebookApp] SSL Error on 11 ('142.184.124.53', 57809): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[W 22:21:58.781 NotebookApp] SSL Error on 11 ('142.184.124.53', 57810): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[W 22:21:58.783 NotebookApp] SSL Error on 12 ('142.184.124.53', 57811): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[W 22:21:58.785 NotebookApp] SSL Error on 13 ('142.184.124.53', 57812): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[W 22:21:58.793 NotebookApp] SSL Error on 15 ('142.184.124.53', 57813): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[W 22:21:58.793 NotebookApp] SSL Error on 14 ('142.184.124.53', 57814): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[I 22:22:03.851 NotebookApp] Kernel started: 8a166f33-6d7a-4092-906f-0242718705a1, name: python3
+[W 22:22:03.902 NotebookApp] SSL Error on 17 ('142.184.124.53', 57820): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[I 22:22:31.620 NotebookApp] Starting buffering for 8a166f33-6d7a-4092-906f-0242718705a1:458365e48ffe438f8f4b4a062aeabffa
+[I 22:22:32.728 NotebookApp] Shutting down on /api/shutdown request.
+[I 22:22:32.729 NotebookApp] Shutting down 1 kernel
+[I 22:22:33.033 NotebookApp] Kernel shutdown: 8a166f33-6d7a-4092-906f-0242718705a1
+[I 22:22:33.034 NotebookApp] Shutting down 0 terminals
